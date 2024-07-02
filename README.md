@@ -8,7 +8,7 @@ Nous sommes l'équipe de développement HOStudio, un studio créé en 2022, qui 
 ## Main Developers 👥
 **Name**|**Role**|**Links**|
 --------|--------|---------|
-HOStudio123|Group Leader|[Github](https://github.com/HOStudio123)
+HOStudio123|Community Leader|[Github](https://github.com/HOStudio123)
 ywe3|Community Administrator|[Github](https://github.com/ywe3)
 chun-awa|Community Administrator|[Github](https://github.com/chun-awa)
 Lone-Air|Community Member|[Github](https://github.com/Lone-Air)
