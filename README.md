@@ -9,8 +9,8 @@ Nous sommes l'équipe de développement HOStudio, un studio créé en 2022, qui 
 **Name**|**Role**|**Links**|
 --------|--------|---------|
 HOStudio123|Group Leader|[Github](https://github.com/HOStudio123)
-chun-awa|Community Administrator|[Github](https://github.com/chun-awa)
 ywe3|Community Administrator|[Github](https://github.com/ywe3)
+chun-awa|Community Administrator|[Github](https://github.com/chun-awa)
 Lone-Air|Community Member|[Github](https://github.com/Lone-Air)
 HOPYBOX|Community Member|[Github](https://github.com/HOPYBOX)
 
@@ -40,4 +40,5 @@ None<br>
 ## Contact us ☎️
 **QQ Group** `671632461`<br>
 **QQ Channel** `x1iqd16492`<br>
-**Discord** [`https://discord.com/invite/j4ReFy5d`](https://discord.com/invite/j4ReFy5d)
+**Discord** [`https://discord.com/invite/j4ReFy5d`](https://discord.com/invite/j4ReFy5d)<br>
+**Website**[`https://hostudiodevelopmentteam.github.io`](https://hostudiodevelopmentteam.github.io)
