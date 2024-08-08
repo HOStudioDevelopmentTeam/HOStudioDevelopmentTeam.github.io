@@ -5,14 +5,12 @@ We are HOStudio Development Team, created in 2022, Now has nearly 20 members and
 
 我们是HOStudio开发团队，创建于2022年，现在拥有近20名成员和2个开源项目，致力于打造一个开放、自由、活跃的社区，我们期待您的加入!  
 
-## Members 👥
+## Main Members 👥
 **Name**|**Role**|**Links**|
 --------|--------|---------|
 HOStudio123|Community Leader|[Github](https://github.com/HOStudio123)
 ywe3|Community Administrator|[Github](https://github.com/ywe3)
 chun-awa|Community Administrator|[Github](https://github.com/chun-awa)
-Lone-Air|Community Member|[Github](https://github.com/Lone-Air)
-HOPYBOX|Community Member|[Github](https://github.com/HOPYBOX)
 
 ## Requirements to Join 📋
 - Be proficient in at least one programming language
